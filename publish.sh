@@ -5,6 +5,7 @@ git checkout  gh-pages
 #git rm --cached -r .
 #git clean -df
 cp -r _book/* .
+rm -rf _book/
 git add .
 git commit -m "publish"
-git push -u origin gh-pages
+#git push -u origin gh-pages
