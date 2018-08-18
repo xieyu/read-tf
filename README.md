@@ -1,5 +1,3 @@
-# 简介
+# 关于本书
 
-read tensorflow code
-
-update test
+本书主要纪录下自己读tensorflow源代码中的一些笔记和心得。
